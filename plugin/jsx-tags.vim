@@ -14,3 +14,4 @@ iabbrev h3 <h3 className=""></h3><esc>F>a
 iabbrev h4 <h4 className=""></h4><esc>F>a
 iabbrev h5 <h5 className=""></h5><esc>F>a
 iabbrev h6 <h6 className=""></h6><esc>F>a
+iabbrev input <input className="" type=""></input><esc>F>a
