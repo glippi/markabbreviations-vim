@@ -16,3 +16,4 @@ iabbrev <h5 <h5 className=""></h5><esc>F>a
 iabbrev <h6 <h6 className=""></h6><esc>F>a
 iabbrev <nav <nav className=""></nav><esc>F>a
 iabbrev <input <input className="" type=""></input><esc>F>a
+iabbrev <html5 <!DOCTYPE HTML><CR><html lang="en"><CR><head><CR><meta charset="UTF-8"><CR><title></title><CR></head><CR><body><CR></body><CR></html><esc>5k>j3jo<tab>

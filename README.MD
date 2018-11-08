@@ -26,6 +26,7 @@ This plugin is focused on React way of writing HTML, a.k.a JSX. By default it wi
   * h6
   * nav
   * input
+  * html5 scaffolding
 
 #### How it works:
 
