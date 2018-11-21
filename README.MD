@@ -30,4 +30,4 @@ This plugin is focused on React way of writing HTML, a.k.a JSX. By default it wi
 
 #### How it works:
 
-This plugin take advanteg of the excellent builtin vim's abbreviation system, so the tag will expand right after the *space* is pressed.
+This plugin take advante of the excellent builtin vim's abbreviation system, so the tag will expand right after the *space* is pressed.
