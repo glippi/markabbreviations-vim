@@ -1,4 +1,4 @@
-if &filetype=='html' || &filetype=='*.tsx' || &filetype=='*.jsx'
+if &filetype ==# '*.html'
   iabbrev div <div className=""></div><esc>F>a
   iabbrev p <p className=""></p><esc>F>a
   iabbrev span <span className=""></span><esc>F>a
