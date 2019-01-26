@@ -1,3 +1,9 @@
+" markabbreviations-vim: abbreviations for HTML/JSX markup
+" Version: 0.2
+" Maintainer: Gabriele Lippi<gabriele@lippi.net>
+" Last modified: 26/01/2019
+" License: This script is released under the Vim License.
+
 iabbrev <html5 <!DOCTYPE HTML><CR><html lang="en"><CR><head><CR><meta charset="UTF-8"><CR><title></title><CR></head><CR><body><CR></body><CR></html><esc>5k>j3jo<tab>
 iabbrev <div <div className={``}></div><esc>F>a
 iabbrev <p <p className={``}></p><esc>F>a
