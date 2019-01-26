@@ -1,4 +1,4 @@
-# Markabbreviations-vim
+# markabbreviations-vim
 
 > markup + vim abbreviations = :hearts:
 
