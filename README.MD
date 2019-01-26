@@ -1,14 +1,10 @@
 # markabbreviations-vim
-
 > markup + vim abbreviations = :hearts:
 
 ## What is markabbreviations-vim?
-
 This plugin is just a collection of shortcuts for some of the most common `HTML` tags, leveraging the awesome vim's `iabbrev` mappings.
 
-
 ## Supported Tags:
-
 | Tag | Abbreviation |
 | --- | ------------ |
 | `<div />` | <div
@@ -42,9 +38,9 @@ This plugin is just a collection of shortcuts for some of the most common `HTML`
 | `<text />` | <text
 | `<tspan />` | <tspan
 
-Plus, `HTML5` template generator: just type `<html5` and it will bootstrap the document for you.
-
 :pushpin: All the tags will be expanded with the attribute `class`, or `className` in case of `JSX`, by default.
+
+:gift: Plus `HTML5` template generator: just type `<html5` and it'll bootstrap the document for you.
 
 ### What are vim's abbreviations?
 For more info on the topic see the chapter about abbreviations on [learn vim script the hardway](http://learnvimscriptthehardway.stevelosh.com/chapters/08.html) or type `:h iabbrev` from whitin vim.
