@@ -50,7 +50,7 @@ For more info on the topic see the chapter about abbreviations on [learn vim scr
 
     Bundle 'glippi/markabbreviations-vim'
 
-    $ vim +'PluginInstall! lognroll-vim' +qall
+    $ vim +'PluginInstall! markabbreviations-vim' +qall
 
 * [**vim-plug**](https://github.com/junegunn/vim-plug), add the following to your plugin section:
 
