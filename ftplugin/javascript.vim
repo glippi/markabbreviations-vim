@@ -1,7 +1,7 @@
 " markabbreviations-vim: abbreviations for HTML/JSX markup
 " Version: 0.2
 " Maintainer: Gabriele Lippi<gabriele@lippi.net>
-" Last modified: 26/01/2019
+" Last modified: 14/06/2019
 " License: This script is released under the Vim License.
 
 inorea html5> <!DOCTYPE HTML><CR><html lang="en"><CR><head><CR><meta charset="UTF-8"><CR><title></title><CR></head><CR><body><CR></body><CR></html><esc>5k>j3jo<tab>
@@ -13,8 +13,8 @@ inorea footer> <footer className={``}></footer><esc>F>a
 inorea main> <main className={``}></main><esc>F>a
 inorea a> <a href="#" className={``}></a><esc>F>a
 inorea aside> <aside className={``}></aside><esc>F>a
-inorea video> <video src="" className={``}></video><esc>F>a
-inorea img> <img src="" className={``}></img><esc>F>a
+inorea video> <video src="" className={``} /><esc>F>a
+inorea img> <img src="" className={``} /><esc>F>a
 inorea h1> <h1 className={``}></h1><esc>F>a
 inorea h2> <h2 className={``}></h2><esc>F>a
 inorea h3> <h3 className={``}></h3><esc>F>a
@@ -22,7 +22,7 @@ inorea h4> <h4 className={``}></h4><esc>F>a
 inorea h5> <h5 className={``}></h5><esc>F>a
 inorea h6> <h6 className={``}></h6><esc>F>a
 inorea nav> <nav className={``}></nav><esc>F>a
-inorea input> <input className={``} type=""></input><esc>F>a
+inorea input> <input className={``} type="" /><esc>F>a
 inorea svg>  <svg width="" height=""></svg><esc>F>a
 inorea g> <g></g><esc>F>a
 inorea defs> <defs></defs><esc>F>a
