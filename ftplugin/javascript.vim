@@ -23,6 +23,7 @@ inorea h5> <h5 className={``}></h5><esc>F>a
 inorea h6> <h6 className={``}></h6><esc>F>a
 inorea nav> <nav className={``}></nav><esc>F>a
 inorea input> <input className={``} type="" /><esc>F>a
+inorea label> <label htmlFor={``}></label><esc>F>a
 inorea svg>  <svg width="" height=""></svg><esc>F>a
 inorea g> <g></g><esc>F>a
 inorea defs> <defs></defs><esc>F>a
